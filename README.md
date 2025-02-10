@@ -2,7 +2,13 @@
 
 ### 🏫 Étudiant en Informatique | 2ᵉ année | IPI Blagnac
 
-Étudiant en deuxième année d’informatique à l’IPI Blagnac, je développe des compétences solides en développement logiciel et en architecture web. Mon objectif est d’acquérir une expertise approfondie dans la conception et la mise en œuvre de solutions logicielles performantes.
+Étudiant en deuxième année d’informatique à l’IPI Blagnac, je développe des compétences solides en développement logiciel et en architecture web. Mon objectif est d’acquérir une expertise approfondie dans la conception et la mise en œuvre de solutions logicielles performantes. Passionné par la technologie et son rôle dans la transformation de notre quotidien, mon parcours académique et professionnel m’a permis de développer des compétences variées, allant de la programmation à la gestion de projets.
+
+
+## 📌 Expériences et Projets
+- **Développement d’une API pour un site marchand (Spring Boot MVC)** → Gestion des clients et produits avec des fonctionnalités avancées comme le calcul d’âge et de marge.
+- **Application de gestion de véhicules (Angular)** → Système CRUD pour le suivi et la gestion d’un parc automobile.
+- **Conception d’un tableau de bord statistique (PHP & MySQL)** → Visualisation de données en temps réel à des fins d’analyse décisionnelle.
 
 ## 🛠️ Technologies et Outils
 
@@ -37,13 +43,6 @@
 </p>
 
 ---
-## 📌 Expériences et Projets
-- **Développement d’une API pour un site marchand (Spring Boot MVC)** → Gestion des clients et produits avec des fonctionnalités avancées comme le calcul d’âge et de marge.
-- **Application de gestion de véhicules (Angular)** → Système CRUD pour le suivi et la gestion d’un parc automobile.
-- **Conception d’un tableau de bord statistique (PHP & MySQL)** → Visualisation de données en temps réel à des fins d’analyse décisionnelle.
-
-## 🎯 Objectifs professionnels
-Je suis en quête d’opportunités pour développer mon expertise dans le domaine du développement logiciel, avec un intérêt particulier pour les architectures modernes, le cloud computing et la cybersécurité. Mon ambition est d’évoluer dans un environnement dynamique où je pourrai contribuer activement à des projets innovants.
 
 ## 📫 Contact
 - 📧 Email : [carcasses.mathieu@live.fr](mailto:carcasses.mathieu@live.fr)
