@@ -37,15 +37,11 @@
   <img src="https://github-readme-stats.vercel.app/api?username=mathieucrcs&show_icons=true&theme=radical" alt="Stats GitHub" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mathieucrcs&theme=radical" alt="GitHub Streak" />
-</p>
-
 ---
 
 ## 📫 Contact
 - 📧 Email : [carcasses.mathieu@live.fr](mailto:carcasses.mathieu@live.fr)
 - 🔗 LinkedIn : [www.linkedin.com/in/mathieu-carcasses](www.linkedin.com/in/mathieu-carcasses)
-- 💻 Portfolio : En construction !
+- 💻 Portfolio : En construction ! [www.mathieucarcasses.vercel.app](https://mathieucarcasses.vercel.app)
 
 N’hésitez pas à me contacter pour échanger sur des opportunités professionnelles ou des collaborations techniques.
