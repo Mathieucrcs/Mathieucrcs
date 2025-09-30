@@ -1,8 +1,8 @@
 # 👨‍💻 Mathieu Carcasses
 
-### 🏫 Étudiant en Informatique | 2ᵉ année | IPI Blagnac
+### 🏫 Étudiant en Informatique | 3ᵉ année | IPI Blagnac
 
-Étudiant en deuxième année d’informatique à l’IPI Blagnac, je développe des compétences solides en développement logiciel et en architecture web. Mon objectif est d’acquérir une expertise approfondie dans la conception et la mise en œuvre de solutions logicielles performantes. Passionné par la technologie et son rôle dans la transformation de notre quotidien, mon parcours académique et professionnel m’a permis de développer des compétences variées, allant de la programmation à la gestion de projets.
+Étudiant en troisième année d’informatique à l’IPI Blagnac, je développe des compétences solides en développement logiciel et en architecture web. Mon objectif est d’acquérir une expertise approfondie dans la conception et la mise en œuvre de solutions logicielles performantes. Passionné par la technologie et son rôle dans la transformation de notre quotidien, mon parcours académique et professionnel m’a permis de développer des compétences variées, allant de la programmation à la gestion de projets.
 
 
 ## 📌 Expériences et Projets
